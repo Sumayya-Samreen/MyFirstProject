@@ -1,0 +1,9 @@
+hi, Use this text file to create conflicts and resolve the conflicts
+
+
+
+Line Number One
+
+Added a new line
+
+Deleted a line

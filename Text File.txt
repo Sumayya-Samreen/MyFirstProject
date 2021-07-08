@@ -1,0 +1,39 @@
+Use this file to explore the features of the GIT
+
+Delet this line
+
+
+JALA Technologies offers only JOb guaranteed programs
+
+Add your text here 
+
+
+
+Added these two lines
+
+
+
+Line Two
+
+
+111
+Added this line by deleting one line
+
+
+
+added one more line 
+
+
+
+
+Added one more line
+aaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Test Delete modification
+
+Adddddeeeeeeeeeeeeddddddddddddddddddddddddddddddddd in the server
+
+added to merge into the local branch
+
+
+From local Branch to Remote branch

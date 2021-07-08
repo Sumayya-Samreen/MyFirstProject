@@ -1,1 +1,2 @@
-# MyFirstProject
+# HelloWorld
+To explore GitHub
